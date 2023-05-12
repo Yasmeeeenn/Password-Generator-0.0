@@ -54,5 +54,5 @@ function generatePassword(){
     newPass += randomPass.toString();
   }
 
-}
+};
 
